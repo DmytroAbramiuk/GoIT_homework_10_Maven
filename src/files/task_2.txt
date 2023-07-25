@@ -1,0 +1,13 @@
+name age
+dima 18
+oleh 24
+andrew 29
+natalia 45
+mykola 12
+alla 83
+ihor 18
+ignat 24
+sergey 29
+ivan 45
+anzhela 12
+danil 83
